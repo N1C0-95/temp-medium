@@ -1,1 +1,0 @@
-export {useTranslatorService} from "./useTranslatorService";
