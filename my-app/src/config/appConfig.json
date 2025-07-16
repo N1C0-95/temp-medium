@@ -1,0 +1,9 @@
+{
+    "maxInputCharactersTextTranslate":10000,
+    "notifyDurationSecondsMs":5000, 
+    "paginationPageSize":8,
+    "languageFrequentlyUsed": [
+        "en", "de", "fr", "es"
+    ],
+    "isHistoryEnabled": true
+}
