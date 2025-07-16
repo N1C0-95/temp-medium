@@ -12,6 +12,7 @@
     "@fluentui/react-components": "^9.66.8",
     "fluentui-next-appdir-directive": "^0.2.0",
     "next": "15.4.1",
+    "next-auth": "^5.0.0-beta.29",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
