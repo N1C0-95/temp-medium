@@ -1,3 +1,4 @@
+"use client"
 import { Button } from "@fluentui/react-components";
 import Image from "next/image";
 
